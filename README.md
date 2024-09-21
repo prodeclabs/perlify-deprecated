@@ -1,4 +1,4 @@
-#Perlify
+# Perlify
 
 This is a a github app for automating the process of writing PR descriptions and metada based on the changes in the PR.
 
@@ -32,8 +32,3 @@ This is a a github app for automating the process of writing PR descriptions and
 - Neon DB
 - Prisma
 - Vercel AI SDK
-
-## License
-
-MIT
-```
