@@ -5,7 +5,6 @@ import UserAvatar from "@/components/UserAvatar";
 
 export default async function Home() {
 	const session = await auth();
-
 	return (
 		<div className="flex h-screen items-center justify-center">
 			<div className="flex flex-col gap-4 justify-center items-center">
