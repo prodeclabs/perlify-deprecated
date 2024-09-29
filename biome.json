@@ -88,8 +88,7 @@
             "noSetterReturn": "off",
             "noUndeclaredVariables": "off",
             "noUnreachable": "off",
-            "noUnreachableSuper": "off",
-            "noUnusedImports": "warn"
+            "noUnreachableSuper": "off"
           },
           "style": {
             "noArguments": "error",
